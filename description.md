@@ -1,4 +1,4 @@
-# UC approval for *Intermediate Python Programming* at CVHS
+# UC approval for *Intermediate Python Programming* at Citrus Valley High School
 
 ## Course Title
 Intro to Computer Science and Coding
