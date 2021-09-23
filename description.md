@@ -21,11 +21,14 @@ Jones & Bartlett Learning
 #### Author
 Bradley N. Miller and David L. Ranum
 #### URL Resource
-* https://classroom.github.com/classrooms/31190613-cvhs-cs-cte
+* https://codehs.com/
+* https://github.com/
+* https://trinket.io/
+* www.turingscraft.com/browsers.html
 
 
 ## Supplemental Instructional Materials
-Custom instructional materials are generated and hosted on GitHub.  All textbook exercises will be hosted in by-chapter repositories on GitHub.  Students will be presented with exercises from each chapter, already compiled in a private repo, with a testing suite in most cases.  https://github.com/KJHS-Coding. Students will work in 20-30 repos throughout the year.  Links to supplemental youtube videos will also be provided.  Students can access online exercises - CodeLab - using an access code from the textbook at www.jblearning.turingscraft.com.  CodeLab will be primarily a remedial tool for students seeking extra practice with syntax and concepts.
+Custom instructional materials are generated and hosted on GitHub.  All textbook exercises will be hosted in by-chapter repositories on GitHub.  Students will be presented with exercises from each chapter, already compiled in a private repo, with a testing suite in most cases.  https://classroom.github.com/classrooms/31190613-cvhs-cs-cte. Students will work in 20-30 repos throughout the year.  Links to supplemental youtube videos will also be provided.  Students can access online exercises - CodeLab - using an access code from the textbook at www.jblearning.turingscraft.com.  CodeLab will be primarily a remedial tool for students seeking extra practice with syntax and concepts.
 
 ## Course Purpose
 This course is designed to be an introduction to computer science from a high-level perspective.  The course is taught with Python, a fully-featured high-level language.  Rather than emphasizing low-level skills such as the implementation of data structures, students will use data structures in Python’s standard library to solve more interesting real-world problems.  This will provide a much clearer context for further study in AP Computer science and beyond.
@@ -154,13 +157,16 @@ Git(hub) tracks commits so that the instructor can monitor progress, review hist
 
 Github is a vital assessment tool because it allows for the instructor to rapidly access student code in an annotative and conversant way.  That also makes it a vital teaching tool.  Pushing starter-code for students, and raising issues as waypoints, allows for rapid movement through content and solutions to interesting problems.
 
+#### CodeHS
+Students who have completed the first course in this pathway will already be familiar with CodeHS and it's platform.  We will utitlize it's 'sandbox' internet IDE and the ability to share to introduce Github, forking, and the various means to collaborate with their peers.
+
 ### Methods
 
 #### Tests
 Students take a multiple choice/free response test every unit assessing understanding of syntax, design, and concepts discussed in class.  Students will predict the output of code and explain syntax errors.  Questions are modeled after AP CS A questions, tailored to the language and content of this course.
 
 #### Projects
-The majority of assessments will be in the form of projects.
+The majority of assessments will be in the form of projects.  Tests and quizzes will be only used to check for understanding leading up to the projects.  Students should become more and more comfortable with the end product of their work being the most important.
 
 #### Project Rubrics
 * Assessment of projects follows 5-point rubrics in three categories:
