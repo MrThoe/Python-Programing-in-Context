@@ -1,4 +1,4 @@
-# PythonCourseApproval
+# Python Course Approval
 
 This folder contains the course description for UC Approval.  
 
