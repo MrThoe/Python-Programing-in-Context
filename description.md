@@ -1,13 +1,13 @@
-# UC approval for *Intro to Computer Science and Coding* at CVHS
+# UC approval for *Intermediate Python Programming* at CVHS
 
 ## Course Title
 Intro to Computer Science and Coding
 
 ## Brief Course Description
-This course provides a comprehensive introduction to software design concepts through the accessible and powerful language Python.  Students solve problems and design projects spanning topics such as data structures, abstraction, data serialization, search algorithms, encryption, and object oriented design.  Good habits, such as revision control with Git, are also be practiced.  Students present work to their classmates at various points throughout the course.  Students choose a final project to develop.  This course provides a solid foundation for further study in computer science.  Beginners and experienced programmers are welcome.
+This course provides a comprehensive introduction to software design concepts through the accessible and powerful language Python.  Students solve problems and design projects spanning topics such as data structures, abstraction, data serialization, search algorithms, encryption, and object oriented design.  Good habits, such as revision control with Git, are also be practiced.  Students present work to their classmates at various points throughout the course.  Students choose a final project to develop.  This course provides a solid foundation for further study in computer science.  Students are expected to have a basic understanding of python but is not required.
 
 ## Prerequisites
-Completion of Algebra I
+Completion of Algebra I, Computer Science CP
 
 ## Textbook
 #### Title
@@ -159,6 +159,12 @@ Github is a vital assessment tool because it allows for the instructor to rapidl
 
 #### CodeHS
 Students who have completed the first course in this pathway will already be familiar with CodeHS and it's platform.  We will utitlize it's 'sandbox' internet IDE and the ability to share to introduce Github, forking, and the various means to collaborate with their peers.
+
+#### Trinket, Repl.it (online IDE's)
+Collaboration will be a key part of this course.  Learning how to collaborate on projects and use git commands like "fork, clone, pull and push" can easily be introduced on internet IDE's before moving to the terminal for use proper git commands.  We will begin our projects using internet IDE's and then move into downloaded code editors and terminals to push our code to online repositories stored in github.
+
+#### Visual Code Studio
+Our primary code editor (aside from internet IDE's) we will connect to github through the terminal.  Visual code studio has it's own terminal but we will also show how you can make changes remotely directly though git-bash.
 
 ### Methods
 
