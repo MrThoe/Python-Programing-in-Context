@@ -21,8 +21,7 @@ Jones & Bartlett Learning
 #### Author
 Bradley N. Miller and David L. Ranum
 #### URL Resource
-* http://www.amazon.com/Python-Programming-Context-Bradley-Miller/dp/1449699391/
-* www.turingscraft.com/browsers.html
+* https://classroom.github.com/classrooms/31190613-cvhs-cs-cte
 
 
 ## Supplemental Instructional Materials
