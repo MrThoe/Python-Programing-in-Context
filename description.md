@@ -1,7 +1,7 @@
 # UC approval for *Intermediate Python Programming* at Citrus Valley High School
 
 ## Course Title
-Intro to Computer Science and Coding
+Intermediate Python Programming
 
 ## Brief Course Description
 This course provides a comprehensive introduction to software design concepts through the accessible and powerful language Python.  Students solve problems and design projects spanning topics such as data structures, abstraction, data serialization, search algorithms, encryption, and object oriented design.  Good habits, such as revision control with Git, are also be practiced.  Students present work to their classmates at various points throughout the course.  Students choose a final project to develop.  This course provides a solid foundation for further study in computer science.  Students are expected to have a basic understanding of python but is not required.
